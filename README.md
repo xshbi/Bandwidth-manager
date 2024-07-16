@@ -39,8 +39,8 @@ python bandwidth_speed_checker.py
 
 ## Contributors
 
-- Your Name (@your-github-username)
-- Additional Contributors
+- Your Name (@xshbi)
+
 
 Feel free to contribute to this project by opening issues or pull requests.
 
