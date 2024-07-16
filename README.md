@@ -13,7 +13,7 @@ To set up the project, you can follow these steps:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/your-username/bandwidth-speed-checker.git
+    git clone https://github.com/xshbi/bandwidth-speed-checker.git
     cd bandwidth-speed-checker
     ```
 
